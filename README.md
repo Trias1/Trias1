@@ -78,14 +78,6 @@ Currently interested in:
 
 ---
 
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Trias1&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
-
----
-
 ## Currently Learning
 
 - Better project structure
@@ -101,6 +93,7 @@ Currently interested in:
 
 - GitHub: [@Trias1](https://github.com/Trias1)
 - LinkedIn: [Trias Zaen Mutaqin](https://www.linkedin.com/in/trias-zaen-mutaqin-55907b175/)
+- Email: [Trias Zaen Mutaqin](mailto:iaszaen@gmail.com)
 
 ---
 
