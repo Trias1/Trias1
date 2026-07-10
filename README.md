@@ -42,27 +42,15 @@ I enjoy building simple tools, dashboards, and applications that solve real prob
 
 ### Comfortable With
 
-- JavaScript
-- React
-- PHP
-- Laravel
-- HTML
-- CSS
-- Java
-- Flutter
-- Git & GitHub
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,php,laravel,html,css,java,flutter,git" />
+</p>
 
 ### Currently Exploring
 
-- TypeScript
-- Next.js
-- Tailwind CSS
-- Express.js
-- Supabase
-- PostgreSQL
-- Docker
-- Deployment workflow
-
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,express,supabase,postgres,docker" />
+</p>
 ---
 
 ## Development Interests
@@ -89,11 +77,11 @@ Currently interested in:
 
 ---
 
-## Contact
+## Contact Me 
 
 - GitHub: [@Trias1](https://github.com/Trias1)
 - LinkedIn: [Trias Zaen Mutaqin](https://www.linkedin.com/in/trias-zaen-mutaqin-55907b175/)
-- Email: [Trias Zaen Mutaqin](mailto:iaszaen@gmail.com)
+- Email: [iaszaen@gmail.com](mailto:iaszaen@gmail.com)
 
 ---
 
