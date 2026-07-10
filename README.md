@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Trias1"><img src="https://img.shields.io/badge/GitHub-Trias1-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/trias-zaen-mutaqin-55907b175/"><img src="https://img.shields.io/badge/LinkedIn-Trias_Zaen_Mutaqin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://komarev.com/ghpvc/?username=Trias1&style=for-the-badge&color=06b6d4" alt="Profile views" />
 </p>
 
@@ -45,6 +46,16 @@ I build practical web applications, dashboards, backend services, and mobile exp
 | **Family Finance** | Mobile finance tracker concept. |
 | **Infrastructure Workspace** | Server and deployment experiments. |
 
+## Repository Direction
+
+I keep this profile focused on projects that show practical product work:
+
+- polished web applications
+- useful dashboards and internal tools
+- backend services with clear API structure
+- mobile experiments and learning projects
+- infrastructure and deployment notes
+
 ## What I Like Building
 
 I enjoy building tools that make workflows clearer, faster, and easier to maintain - from dashboards and backend services to polished user-facing products.
@@ -56,13 +67,7 @@ I enjoy building tools that make workflows clearer, faster, and easier to mainta
 - Exploring better deployment and infrastructure practices
 - Keeping projects simple, useful, and easy to maintain
 
-## GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Trias1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trias1&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
 ## Contact
 
 - GitHub: [@Trias1](https://github.com/Trias1)
+- LinkedIn: [Trias Zaen Mutaqin](https://www.linkedin.com/in/trias-zaen-mutaqin-55907b175/)
