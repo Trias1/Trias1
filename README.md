@@ -51,7 +51,7 @@ I enjoy building simple tools, dashboards, and applications that solve real prob
 <p>
   <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,express,supabase,postgres,docker" />
 </p>
----
+
 
 ## Development Interests
 
